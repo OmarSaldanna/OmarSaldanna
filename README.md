@@ -5,14 +5,7 @@
 #### Education :mortar_board:
 
 - Bachelor's degree in Systems Engineering from Universidad Anáhuac Norte
-- Minor in Data Science
 - Actuarial Sciences studies at Universidad Anáhuac Norte
-
-#### Experience :briefcase:
-
-- Data Analyst at Red de Colegios Mano Amiga (2022 - Present)
-- Developed a multiuser chat system with AI, multimedia features, and IoT controls
-- Full-Stack Developer with expertise in Python and APIs
 
 #### Skills :rocket:
 
@@ -20,11 +13,6 @@
 - Machine Learning :gear:
 - Web Development :globe_with_meridians:
 - Data Analysis :chart_with_upwards_trend:
-
-#### Languages :earth_americas:
-
-- Spanish (native)
-- English (fluent)
 
 #### Learning Communities :books:
 
