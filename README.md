@@ -19,7 +19,7 @@
 - Kaggle
 - Platzi
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omarlara/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omarlarasa/)!
 
 Let's code and explore the data together! :computer::chart_with_upwards_trend:
 
