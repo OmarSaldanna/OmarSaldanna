@@ -1,4 +1,4 @@
-## Omar Lara :man_technologist:
+## Omar Larasa :man_technologist:
 
 ### Data Scientist and Full-Stack Developer :bar_chart::computer:
 
