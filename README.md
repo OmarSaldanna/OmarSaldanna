@@ -1,29 +1,8 @@
-## Omar Larasa :man_technologist:
+![](https://res.cloudinary.com/dddfztayk/image/upload/v1736916355/Screenshot_2025-01-14_at_10.40.44_pm_to2ezf.png)
+# 🪸 Omar Larasa
 
-### Data Scientist and Full-Stack Developer :bar_chart::computer:
-
-#### Education :mortar_board:
-
-- Bachelor's degree in Systems Engineering from Universidad Anáhuac Norte
-- Actuarial Sciences studies at Universidad Anáhuac Norte
-
-#### Skills :rocket:
-
-- Python :snake:
-- Machine Learning :gear:
-- Web Development :globe_with_meridians:
-- Data Analysis :chart_with_upwards_trend:
-
-#### Learning Communities :books:
-
-- Kaggle
-- Platzi
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omarlarasa/)!
-
-Let's code and explore the data together! :computer::chart_with_upwards_trend:
-
-<!---
-OmarSaldanna/OmarSaldanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![AI Developer](https://img.shields.io/badge/AI-Developer-%231D896B?style=for-the-badge)
+![Web Developer](https://img.shields.io/badge/Web-Developer-%23EE6D73?style=for-the-badge)
+![Python Developer](https://img.shields.io/badge/Python-Developer-%23FFDC53?style=for-the-badge)
+![Data Scientist](https://img.shields.io/badge/Data-Scientist-%231EBEFF?style=for-the-badge)
+![Iot Enthusiastic](https://img.shields.io/badge/IoT-Enthusiastic-%23028184?style=for-the-badge)
